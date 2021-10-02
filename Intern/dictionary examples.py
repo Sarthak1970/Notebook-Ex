@@ -11,3 +11,4 @@ print(d1)
 
 del d1[50]
 print(d1)
+#adding dictonery
