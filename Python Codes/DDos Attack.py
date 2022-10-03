@@ -1,7 +1,7 @@
 import threading
 import socket
 
-target="192.168.8.1"
+target="192.168.8.4"
 port=80
 fake_ip="182.21.20.32"
 
