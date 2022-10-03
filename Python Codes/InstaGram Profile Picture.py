@@ -1,5 +1,5 @@
 import os
-import instaloader
+import instauploader
 
 def picture_download(username):
     parser=instaloader.Instaloader()
