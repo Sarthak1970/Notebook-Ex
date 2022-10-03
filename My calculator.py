@@ -4,7 +4,7 @@ print("My Calculator")
 print("Type 'Quit' to exit \n")
 
 previous=0
-run=True
+run=False
 def performMath():
     global run
     global previous
