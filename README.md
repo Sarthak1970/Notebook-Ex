@@ -1,6 +1,6 @@
-# Noob-to-Ninja-ML
+# Notebook-Ex
 
-Welcome to the Noob-to-Ninja-ML repository! This repo contains a collection of Python exercises focused on Data Science and Machine Learning. The exercises are designed to help beginners transition from foundational concepts to more advanced topics, covering a range of data science techniques.
+Welcome to the Notebook-Ex repository! This repo contains a collection of Python exercises focused on Data Science and Machine Learning. The exercises are designed to help beginners transition from foundational concepts to more advanced topics, covering a range of data science techniques.
 
 ## Table of Contents
 
@@ -27,7 +27,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/Sarthak1970/Noob-to-Ninja-ML.git
+git clone https://github.com/kartikeya649/Notebook-Ex
 cd Noob-to-Ninja-ML
 Install Dependencies: Make sure you have Python installed. You can install the required dependencies by running:
 
